@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moje Prvni Appka</string>
+    <string name="my_first_app">Moje první appka v czechitas pres string</string>
+    <string name="nadpis">Czechitas první appka (text pres slovník)</string>
+</resources>

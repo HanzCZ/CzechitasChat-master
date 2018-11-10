@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MY first app</string>
+    <string name="nadpis">Czechitas my first app (via dictonary)</string>
+    <string name="my_first_app">Czechitas my first app via strings</string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257674756374",
+    "firebase_url": "https://czechitaschat.firebaseio.com",
+    "project_id": "czechitaschat",
+    "storage_bucket": "czechitaschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257674756374:android:dbe512d10beb491d",
+        "android_client_info": {
+          "package_name": "com.czechitast.janhanak.mojeprvniappka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257674756374-k9u6hd6f52pbircspvondnje3khgqc8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.czechitast.janhanak.mojeprvniappka",
+            "certificate_hash": "26ea81b38ad192d1b5c4bf80a0a3a05ceb8f9329"
+          }
+        },
+        {
+          "client_id": "257674756374-0o6vejj354ljcn2hbb0jj2lm6jorru7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClwqgjEZXfV0vCdJqUR5yD5WfK-bCxvOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257674756374-0o6vejj354ljcn2hbb0jj2lm6jorru7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
